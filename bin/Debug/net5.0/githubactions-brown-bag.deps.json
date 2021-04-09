@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "githubactions-brown-bag/1.0.0": {
+        "runtime": {
+          "githubactions-brown-bag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "githubactions-brown-bag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

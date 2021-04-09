@@ -1,0 +1,16 @@
+D:\Source\Repos\BrownBag\githubactions-brown-bag\bin\Debug\net5.0\githubactions-brown-bag.exe
+D:\Source\Repos\BrownBag\githubactions-brown-bag\bin\Debug\net5.0\githubactions-brown-bag.deps.json
+D:\Source\Repos\BrownBag\githubactions-brown-bag\bin\Debug\net5.0\githubactions-brown-bag.runtimeconfig.json
+D:\Source\Repos\BrownBag\githubactions-brown-bag\bin\Debug\net5.0\githubactions-brown-bag.runtimeconfig.dev.json
+D:\Source\Repos\BrownBag\githubactions-brown-bag\bin\Debug\net5.0\githubactions-brown-bag.dll
+D:\Source\Repos\BrownBag\githubactions-brown-bag\bin\Debug\net5.0\ref\githubactions-brown-bag.dll
+D:\Source\Repos\BrownBag\githubactions-brown-bag\bin\Debug\net5.0\githubactions-brown-bag.pdb
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\githubactions-brown-bag.csprojAssemblyReference.cache
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\githubactions-brown-bag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\githubactions-brown-bag.AssemblyInfoInputs.cache
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\githubactions-brown-bag.AssemblyInfo.cs
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\githubactions-brown-bag.csproj.CoreCompileInputs.cache
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\githubactions-brown-bag.dll
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\ref\githubactions-brown-bag.dll
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\githubactions-brown-bag.pdb
+D:\Source\Repos\BrownBag\githubactions-brown-bag\obj\Debug\net5.0\githubactions-brown-bag.genruntimeconfig.cache
